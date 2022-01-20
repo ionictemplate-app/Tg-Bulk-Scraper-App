@@ -1,12 +1,12 @@
- #Why choose Telegram Bot Bulk Send/Scraper/Inite Safe Tools  
+ # Why choose Telegram Bot Bulk Send/Scraper/Inite Safe Tools  
 
-#DOWNLOAD: https://bit.ly/3GLmU7C
+# DOWNLOAD: https://bit.ly/3AgdLkV
 
-Get Telegram Marketing Tools here: 👈👈👈❤️❤️❤️
+# Get Telegram Marketing Tools here: 👈👈👈❤️❤️❤️
 
 https://bit.ly/3GLmU7C
 
-Official Channel:👈
+# Official Channel:👈
 
 https://t.me/marketingtoolssupport
 
