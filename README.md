@@ -37,10 +37,8 @@ https://t.me/marketingtoolssupport
 </p> 
 <p>
     <a href="https://youtu.be/bnyrtugD7t0" rel="nofollow">
-    <img src="https://i.ibb.co/j89KCGy/sendbtn4.png" alt="Telegram Bot Bulk Send/Scraper/Inite Safe Tools" border="0">
-	 
+       <img src="https://i.ibb.co/j89KCGy/sendbtn4.png" alt="Telegram Bot Bulk Send/Scraper/Inite Safe Tools" border="0"> 
     </a>
- 
 </p> 
 
 
