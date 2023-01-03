@@ -7,7 +7,8 @@
 
 https://bit.ly/3LAaGAc
 
-# Official Channel:👈   https://t.me/tgmarkettool
+# telegram: https://t.me/IonicSupport
+whatsapp:+1 315 629 9582
 
 <h2><strong>Telegram-TgSender Contact | Group Bulk Send |Invite  5.0.6</strong></h2>
 
@@ -261,98 +262,6 @@ https://bit.ly/3LAaGAc
 <h2><strong>Online Support</strong></h2>
 <p>If you are interested in any of our products,If you have any questions,welcome to contact us.</p>
  
-<table>
-<tr>
-   <td>
-      <a href="mailto:ionicstudio@hotmail.com">
-         <img src="https://i.ibb.co/D95ZGwY/email.png" alt="email" border="0">
-    </a>
-  </td>
-    <td>
-      <a href="https://t.me/captainC999" rel="nofollow">
-       <img src="https://i.ibb.co/F7m9KDN/tg.png" alt="tg" border="0">
-    </a>
-   </td>
-</tr>
-</table>
  
  
- <h3><strong>Update Logs</strong></h3>
-     - V5.0.6 ( 2022/10/20)
- <pre>
-  --Optimize:Improve invitation speed
-  --Optimize:Improve invitation speed by username list
-  --Optimize:Optimize all timeout 
- </pre>
-    - V5.0.5 ( 2022/10/16)
- <pre>
-  --Fixed:Bulk invite issue
-  --Fixed:extract member list issue
-  --Optimize:Optimize the timeout problem of each long connection
- </pre>
-    - V5.0.4 ( 2022/10/01)
- <pre>
-  --Add:More detailed log files
-  --Fixed:Fix batch login issue
- </pre>
-   - V5.0.3 ( 2022/09/20)
- <pre>
-  --Add:Replace new UI icons
-  --Fixed:Optimize the extracted member list feature
- </pre>
-   - V5.0.2 ( 2022/09/15)
- <pre>
-  --Add:invite user page add real-time log display
-  --Fixed:Optimize multi-threaded invitations
- </pre>
-   - V5.0.1 ( 2022/09/10)
- <pre>
-  --Add:Added user name list invitation feature
-  --Add:Added invitation real-time log display
- </pre>
-  - V4.0.5 ( 2022/09/01)
- <pre>
-  --Add:Import invitation history
-  --Add:Export invitation history
-  --Fixed:Invitation record pagination problem
- </pre>
-    - V4.0.3 ( 2022/08/15)
- <pre>
-  --Add:Export of invitation records
-  --Fixed:Fix password parameter issue
- </pre>
-   - V4.0.2 ( 2022/08/10)
- <pre>
-  --Add:add the connection timeout without waiting for a long time
-  --Fixed:Fix Failed to reconnect
- </pre>
-  - V4.0.1 ( 2022/07/25)
- <pre>
-  --Add:add more free proxies
-  --Fixed:Fix proxy import feature
-  --Update:Improve the documentation
- </pre>
- - V3.0.1 ( 2022/06/16)
- <pre>
-  --Add:Support 20-40 accounts, work at the same time
-  --Add:Built-in 20-40 free proxies
-  --Add:More friendly telegram api prompt
-  --Add:More powerful account protection mechanisms and strategies
-  --Add:Very detailed documentation where you can find solutions to any common problems
-  --Fixed:abnormal prompt question
- </pre>
-  - V2.0.1 ( 2022/05/16)
- <pre>
-  --Add:Set the number of extractions to improve efficiency
-  --Add:Built-in proxy feature, easy access to proxy solutions
-  --Fixed:login problem
- </pre>
-  - V1.0.0 ( 2022/05/1)
- <pre>
-  --Add:Initial version
- </pre>
-
-
- 
-
-
+ < 
